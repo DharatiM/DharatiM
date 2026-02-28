@@ -3,7 +3,7 @@
 # 🌸 Dharati M
 
 ### Computer Science Engineering Student  
-MERN Stack Developer · Aspiring Data Analyst
+MERN Stack Developer
 
 ---
 
