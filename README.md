@@ -8,7 +8,7 @@
 
 - 📫 Reach me at: *dharatim22@gmail.com*
 
-- 📄 Check out my resume: [Click here](https://drive.google.com/file/d/17vn0fI1Eq6KmPS7xe0gf5t3BzLSrrhhB/view?usp=sharing)
+- 📄 Check out my resume: [Click here]
 
 ---
 
