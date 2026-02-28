@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dharati J Malimath</h1>
 
-<h3 align="center">"Passionate about data analytics, front-end development, and creative editing. Skilled in Python and visualization tools, with experience in building chatbots and analytics dashboards. Currently exploring UI/UX design to combine data insights with great user experiences.”</h3>
+<h3 align="center">A Passionate Front-end developer, currently strengthening skills in HTML, CSS, JavaScript, and React to build
+responsive user interfaces. Aspiring MERN stack developer learning backend technologies including MongoDB,
+Express.js, and Node.js, with interest in Data Analytics.</h3>
+”
+- 🌱 I’m currently learning *JavaScript and MERN Stack*
 
-- 🌱 I’m currently learning *Data analytics tools, designing and javascript*
-
-- 💬 Ask me about *HTML, CSS, Data visualization, Data Analytics *
+- 💬 Ask me about *HTML, CSS, JavaScript,Mongo DB, Express JS, React JS, Node JS*
 
 - 📫 Reach me at: *dharatim22@gmail.com*
 
-- 📄 Check out my resume: [Click here]
+- 📄 Check out my resume: [Click here]"https://drive.google.com/file/d/1CmwDpvSah8XDA6cUqI3TH6WPQLiuEV-s/view?usp=sharing"
 
 ---
 
@@ -33,8 +35,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.sv" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
