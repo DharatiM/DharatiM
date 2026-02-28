@@ -1,48 +1,44 @@
-<h1 align="center">Hi 👋, I'm Dharati J Malimath</h1>
+<div align="center">
 
-<h3 align="center">A Passionate Front-end developer, currently strengthening skills in HTML, CSS, JavaScript, and React to build
-responsive user interfaces. Aspiring MERN stack developer learning backend technologies including MongoDB,
-Express.js, and Node.js, with interest in Data Analytics.</h3>
-”
-- 🌱 I’m currently learning *JavaScript and MERN Stack*
+# 🌸 Dharati M
 
-- 💬 Ask me about *HTML, CSS, JavaScript,Mongo DB, Express JS, React JS, Node JS*
-
-- 📫 Reach me at: *dharatim22@gmail.com*
-
-- 📄 Check out my resume: [Click here]"https://drive.google.com/file/d/1CmwDpvSah8XDA6cUqI3TH6WPQLiuEV-s/view?usp=sharing"
+### Computer Science Engineering Student  
+MERN Stack Developer · Aspiring Data Analyst
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a href="mailto:dharatim22@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email" height="30" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dharati-m-193986268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/dharati.jm" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
- 
-</p>
+I am a passionate and curious developer who enjoys building meaningful digital solutions.  
+With a strong foundation in full-stack web development, I love transforming ideas into clean, responsive, and user-friendly applications.
+
+Currently pursuing B.E in Computer Science, I actively explore modern web technologies and data analytics to strengthen both my technical and problem-solving skills.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.sv" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  </a>
-  </a>
-</p>
+## 💡 Core Interests
+
+• Full-Stack Web Development  
+• Frontend Design & User Experience  
+• Data Analytics & Insight Generation  
+• Continuous Learning & Innovation  
+
+---
+
+## 🛠 Technical Skills
+
+`HTML` · `CSS` · `JavaScript`  
+`React.js` · `Node.js` · `Express.js` · `MongoDB`  
+`Python` · Basic Data Analytics  
+
+---
+
+## 🎯 Career Goal
+
+To grow as a skilled software developer and data professional while contributing to impactful, real-world projects that create value for people.
+
+---
+
+📬 Open to internships, collaborations, and learning opportunities.
+
+✨ Always learning. Always building.
+
+</div>
