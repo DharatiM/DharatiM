@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Dharati M
+#  Dharati M
 
 ### Computer Science Engineering Student  
 MERN Stack Developer
