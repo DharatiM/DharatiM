@@ -27,7 +27,7 @@ Currently pursuing B.E in Computer Science, I actively explore modern web techno
 
 `HTML` · `CSS` · `JavaScript`  
 `React.js` · `Node.js` · `Express.js` · `MongoDB`  
-`Python` · Basic Data Analytics  
+`Python` `Basic Data Analytics`  
 
 ---
 
