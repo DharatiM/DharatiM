@@ -21,12 +21,12 @@
 
 ### 🧑‍💻 About Me
 
-I'm a final-year CS student building full-stack web apps with the MERN stack. I focus on writing clean, responsive frontends and integrating them with robust REST APIs.
+Passionate Web Developer. I focus on writing clean, responsive frontends and integrating them with robust REST APIs.
 
 - 🔭 Currently interning at **DHEE Coding Labs** — building full-stack features with React, Node, Express & MongoDB
 - 🌱 Learning **TypeScript** and **Redux Toolkit**
 - 💡 Interested in: Frontend Engineering · Full-Stack Development · UI/UX
-- 📍 Based in Ujire, Karnataka
+- 📍 Based in Bengaluru, Karnataka
 
 ---
 
@@ -79,7 +79,7 @@ I'm a final-year CS student building full-stack web apps with the MERN stack. I 
 
 - 🥉 **3rd Prize** — Major Project Exhibition (Neo Maternal Diagnosis, 30+ teams)
 - ⭐ **Top Performer** — Mini Anveshana Tech Fest 2024
-- 📚 **CGPA 8.2** — Top 15% of class
+- 📚 **CGPA 8.2** 
 
 ---
 
