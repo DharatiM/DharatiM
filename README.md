@@ -62,16 +62,6 @@ Passionate Web Developer. I focus on writing clean, responsive frontends and int
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| 🏥 **Neo Maternal Diagnosis** | Health monitoring system for premature babies & maternal care with real-time dashboards | React, Node, Express, MongoDB, Chart.js | [Repo](https://github.com/DharatiM/neo-maternal) · [Live](https://neo-maternal.vercel.app) |
-| 💼 **Gig Worker Job Platform** | Skill-based job matching with smart algorithm, JWT auth, ratings & secure payments | React, Node, Express, MongoDB | [Repo](https://github.com/DharatiM/gig-match) |
-| 🤖 **AI College Chatbot** | Instant FAQ bot for admissions & campus info with updatable knowledge base | HTML, CSS, JavaScript, Dialogflow | [Repo](https://github.com/DharatiM/college-bot) · [Live](https://dharatim.github.io/college-bot) |
-| ✅ **Smart Task Tracker** | Productivity tracker with task management & personal journal | JavaScript, HTML, CSS | [Repo](https://github.com/DharatiM/smart-taskTracker) · [Live](https://dharatim.github.io/smart-taskTracker) |
-
----
 
 ### 📊 GitHub Stats
 
