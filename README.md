@@ -22,7 +22,7 @@ SDM Institute of Technology, Ujire • CGPA: <b>8.5</b>
     <img src="https://img.shields.io/badge/GitHub-DharatiM-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://dharati-m.github.io">
+  <a href="https://glowing-dolphin-bb7bf8.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-1A73E8?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
