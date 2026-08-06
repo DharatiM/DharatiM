@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:6C63FF,100:FF6B6B&height=200&section=header&text=Dharati%20J%20Malimath&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)&descSize=20&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6B6B&height=200&section=header&text=Dharati%20J%20Malimath&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)&descSize=20&descAlignY=58&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+with+the+MERN+Stack+%F0%9F%9A%80;Integrating+AI+into+Web+Apps+%F0%9F%A4%96;Crafting+Clean%2C+Scalable+Code+%E2%9C%A8;Always+Learning%2C+Always+Shipping+%F0%9F%93%88" alt="Typing SVG" />
 
@@ -144,7 +144,7 @@ Explore my full body of work — additional builds, experiments, and case studie
 
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:FF6B6B,100:6C63FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:6C63FF&height=100&section=footer"/>
 
 <i>💬 Open to full-time MERN / Full Stack opportunities — let's build something great together!</i>
 
